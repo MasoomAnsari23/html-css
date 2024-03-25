@@ -1,0 +1,15 @@
+.hello{
+    color:bisque;
+    background-color: darkolivegreen;
+}
+#intro{
+    color: black;
+    background-color: aquamarine;
+}
+#about{
+    color:rgb(rgb(92, 87, 87), green, blue);
+    background-color: blueviolet;
+}
+.only-intro{
+    color:chartreuse;
+}
