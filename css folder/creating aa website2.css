@@ -1,0 +1,20 @@
+.intro{
+    color:rgb(49, 49, 73);
+    background-color: chartreuse;
+}
+#h1{
+    color:black;
+}
+#detail{
+    color: rgb(12, 34, 34);
+    background-color: rgb(84, 57, 57);
+}
+#intro{
+    color:blue;
+}
+#about{
+    color:rgb(48, 109, 233);
+}
+#contact{
+    color:rgb(97, 161, 27)
+}
