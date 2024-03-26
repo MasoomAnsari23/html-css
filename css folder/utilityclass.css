@@ -1,0 +1,11 @@
+.text-color{
+    color:blue;         /*this is utility class*/
+    background-color: chartreuse;
+}
+.moto{
+    color:rgb(22, 35, 60);
+}
+.text-para{
+    color:rgb(143, 109, 40);
+    background-color: rgb(66, 24, 24);
+}
