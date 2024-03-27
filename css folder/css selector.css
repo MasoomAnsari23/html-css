@@ -1,0 +1,16 @@
+ *{
+    color:rgb(129, 183, 48);    /*(this is universal selector)*/
+}
+
+ section.impo{ 
+    color:antiquewhite;      /*(this access the class impo)*/
+    background-color: rgb(41, 62, 198);
+}
+section.impo h1{
+    color:rgb(107, 65, 13);  /*this access h1 of impo class*/
+    background-color: black;
+}
+article h2{
+    color:rgb(7, 145, 99);
+    background-color: rgb(133, 133, 79);
+}
