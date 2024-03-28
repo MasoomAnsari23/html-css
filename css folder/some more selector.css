@@ -1,0 +1,14 @@
+header.my-article{
+    color:aquamarine;
+}
+
+section.info h1{
+    color:blue;
+}
+
+section.info > h2{
+    color:green;
+}
+p + h1{
+    color:rgb(62, 62, 118);
+}
