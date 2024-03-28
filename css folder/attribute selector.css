@@ -1,0 +1,15 @@
+input[type="text"]{
+    color:chocolate;
+    background-color: aquamarine;
+}
+/*a[href*="google"]{
+    color:rgb(171, 129, 129);
+    background-color: wheat;
+}*/
+
+a[href^="https"]{
+    color:aqua;
+}
+a[href$=".com"]{
+    color:rgb(44, 44, 77);
+}
