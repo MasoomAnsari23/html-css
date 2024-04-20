@@ -1,0 +1,21 @@
+h1{
+    color:lightblue;
+    background-color: black;
+    border: 6px solid darkgreen;  /*this is simple and best way to write border*/
+}
+
+p{
+    color:aqua;
+    background-color: rgb(13, 24, 24);
+    border-width:5px;
+    border-color: blue;
+    border-style:solid; /*border can be solid, dashed, dotted, ridge, groov, inset, outset ets*/
+}
+
+p1{
+    color: rgb(61, 154, 125);
+    border:2px solid black;
+    border-radius: 5px;
+    border-top:4px solid black;
+    border-bottom: 4px dotted darkgreen;
+}
