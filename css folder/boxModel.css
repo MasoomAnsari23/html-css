@@ -1,0 +1,7 @@
+h1{
+    border:2px solid darkblue;
+    width: 300px;
+    text-align: center;
+    padding: 20px;  /*padding left right top and bottom all 20 we can also specify*/
+    margin: 100px; /*margin can also be specified like top bottom left right*/
+}
