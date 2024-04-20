@@ -1,0 +1,12 @@
+h1{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    color: rgb(20, 55, 55);
+    border-bottom: 2px solid green;
+}
+h2{
+    margin:70px;
+   border-top: 2px dotted blue;
+}   /*margin collapsing is nothing bi=ut it will accure the largest value of margin*/
