@@ -1,0 +1,10 @@
+html{
+    border-top: 2px solid red;
+    width: 300px;      
+    box-sizing: content-box;  /*content box is by deafault we can use border box*/
+}
+h1{
+    color: blueviolet;
+    background-color: lightgreen;
+    text-align: center;
+}
