@@ -2,14 +2,14 @@ input[type="text"]{
     color:chocolate;
     background-color: aquamarine;
 }
-/*a[href*="google"]{
-    color:rgb(171, 129, 129);
+a[href*="google"]{
+    color:rgb(171, 129, 129);  /* this will change all google */
     background-color: wheat;
-}*/
+}
 
 a[href^="https"]{
-    color:aqua;
+    color:aqua;  /*this will change all starts with https*/
 }
 a[href$=".com"]{
-    color:rgb(44, 44, 77);
+    color:rgb(44, 44, 77); /*this will change all that ends with .com*/
 }
