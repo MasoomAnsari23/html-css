@@ -1,0 +1,13 @@
+/* 1.inline css:write css style file in html code no need to make new css file */
+
+/* 2.use style tag internally in html*/
+
+/* 3.create external css file and link it too html file::best method */
+/* link rel="stylesheet" href="path of source" */
+h2{
+    color: brown;background-color: rgb(142, 223, 132);  
+}
+h5{
+    color: cornflowerblue;
+    background-color: rgb(11, 29, 45);
+}
