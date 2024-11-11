@@ -1,0 +1,17 @@
+/* playing with fonts */
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serifs;
+}
+h3{
+    font-family: serif;
+}
+p{
+    font-size: 2em;
+    font-family: monospace;
+}
+
+/* we can also select font from google */
+/* by pasting ink from there in css 1 st line */
